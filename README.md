@@ -10,10 +10,10 @@
 <b><details><summary>Tap To watch</summary>
 
 ### Heroku Video
-<a href="https://youtu.be/ms_ApEgb0SA?feature=shared"><img alt="how to create" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
+<a href=""><img alt="how to create" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
 
 ### Render Video
-<a href="https://youtu.be/A4l6LSPi-lM?feature=shared"><img alt="how to create" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href=""><img alt="how to create" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </b>
 </details>
@@ -49,15 +49,3 @@ about - Something About Me 😌
 thumbnail - generate video thumbnail 🌁
 date - check date and time 🕰️
 ```
-
-### BUY ME A COFFEE 🥹
-<a href="https://www.buymeacoffee.com/lisakorean" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-### My Community Details
-
-
-- YouTube Channel : [Telegram Bots 🤖](https://youtube.com/@NTBOT?feature=shared)
-- Telegram Channel : [NT Bots ❤️‍🩹](https://t.me/NT_BOT_CHANNEL)
-- Telegram Group : [NT Bots Support 🎗️](https://t.me/NT_BOTS_SUPPORT)
-- URL Uploader Bot : [Uploader Bot 🚀](https://t.me/UploadLinkToFileBot)
-- Me : [Lisa 👑](https://t.me/LISA_FAN_LK)
